@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.text-overplay{
+    position: absolute;
+    top: 100%;
+    left: 19%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 100px;
+   }
